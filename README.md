@@ -4,7 +4,7 @@ Shell script to install a [AwardCoin Masternode](http://www.awardcoin.org/) on a
 ***
 ## Installation:
 ```
-git clone https://github.com/AwardCoin/awr-install/
+git clone https://github.com/awardprj/awr-install
 cd awr-install
 bash awr-install.sh
 ```
