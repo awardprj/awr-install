@@ -10,6 +10,16 @@ bash awr-install.sh
 ```
 ***
 
+***
+## Installation:
+```
+Delete old blockchain files, to download new ones:
+cd ~/awr-install/
+git pull
+bash awr-upblock.sh
+```
+***
+
 ## Desktop wallet setup
 
 After the MN is up and running, you need to configure the desktop wallet accordingly. Here are the steps for Windows Wallet
