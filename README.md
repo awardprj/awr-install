@@ -9,11 +9,9 @@ cd awr-install
 bash awr-install.sh
 ```
 ***
-
 ***
-## Installation:
+## Delete old blockchain files, to download new ones:
 ```
-Delete old blockchain files, to download new ones:
 cd ~/awr-install/
 git pull
 bash awr-upblock.sh
